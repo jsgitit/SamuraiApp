@@ -12,7 +12,7 @@ namespace SamuraiApp.Domain
         public string Name { get; set; }
         public List<Quote> Quotes { get; set; }
         public Clan Clan { get; set; }
-        
+         
     }
 }
 
