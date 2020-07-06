@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SamuraiApp.Domain.Battle">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQgAAAAAAAAAAAAAEAAAAQ=</HashCode>
+      <FileName>Battle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SamuraiApp.Domain.Horse">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Horse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SamuraiApp.Domain.SamuraiBattle">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAIAAAACAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SamuraiBattle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SamuraiApp.Domain.Samurai">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAgAAAAAAAAAIAAAAIAAQ=</HashCode>
+      <FileName>Samurai.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Calibri" Size="10" />
+</ClassDiagram>
